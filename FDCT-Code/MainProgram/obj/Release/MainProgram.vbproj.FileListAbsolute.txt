@@ -1,0 +1,30 @@
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\bin\Release\FractalsStego.exe.config
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\bin\Release\FractalsStego.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\bin\Release\FractalsStego.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\bin\Release\FractalsStego.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Release\WindowsApplication1.main.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Release\MainProgram.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Release\FractalsStego.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Release\FractalsStego.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Release\FractalsStego.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\bin\Release\FractalsStego.exe.config
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\obj\Release\FractalsStego.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\obj\Release\FractalsStego.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\obj\Release\FractalsStego.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\bin\Release\FractalsStego.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\bin\Release\FractalsStego.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\bin\Release\FractalsStego.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\obj\Release\WindowsApplication1.main.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT-Code\MainProgram\obj\Release\MainProgram.vbproj.GenerateResource.Cache
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\bin\Release\FastDCT.exe.config
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\bin\Release\FastDCT.exe
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\bin\Release\FastDCT.pdb
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\bin\Release\FastDCT.xml
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\obj\Release\WindowsApplication1.main.resources
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\obj\Release\MainProgram.vbproj.GenerateResource.Cache
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\obj\Release\FastDCT.exe
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\obj\Release\FastDCT.xml
+C:\Users\Owner\Google Drive\Research\Zahraa\DCT\FDCT-Code\MainProgram\obj\Release\FastDCT.pdb

@@ -1,0 +1,18 @@
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT - Copy\FractalsStego\bin\Debug\FractalsStego.exe.config
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT - Copy\FractalsStego\obj\Debug\FractalsStego.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT - Copy\FractalsStego\obj\Debug\FractalsStego.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT - Copy\FractalsStego\obj\Debug\FractalsStego.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT - Copy\MainProgram\bin\Debug\FractalsStego.exe.config
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT - Copy\MainProgram\obj\Debug\FractalsStego.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT - Copy\MainProgram\obj\Debug\FractalsStego.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT - Copy\MainProgram\obj\Debug\FractalsStego.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\bin\Debug\FractalsStego.exe.config
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Debug\FractalsStego.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Debug\FractalsStego.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Debug\FractalsStego.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\bin\Debug\FractalsStego.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\bin\Debug\FractalsStego.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\bin\Debug\FractalsStego.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Debug\WindowsApplication1.main.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\FDCT\MainProgram\obj\Debug\MainProgram.vbproj.GenerateResource.Cache
